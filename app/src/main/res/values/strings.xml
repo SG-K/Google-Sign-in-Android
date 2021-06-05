@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleDriveKotlinSample</string>
+
+    <string name="select_folder">Select a folder</string>
+    <string name="select_file">Select file</string>
+    <string name="file_created">Created file: %1$s.</string>
+    <string name="file_create_error">Error while trying to create the file.</string>
+
+</resources>
